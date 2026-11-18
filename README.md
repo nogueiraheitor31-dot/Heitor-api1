@@ -1,7 +1,7 @@
 # API REST com Node.js e MySQL
 
-- **Aluno:** SEU NOME AQUI
-- **Turma:** SUA TURMA AQUI
+- **Aluno:** Heitor Nogueira
+- **Turma:** 3NDN
 - **Disciplina:** Programação Web III (PW3)
 
 API REST com Express e MySQL (driver `mysql2`, sem ORM), usando queries parametrizadas contra SQL Injection.
